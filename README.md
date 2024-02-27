@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @antonioleeps
-- 👀 I’m interested in machine learning and deep learning, particularly microscopic image processing.
-- 🌱 I’m currently learning different object recognition methods, as well as how to leverage the small datsets for the training.
-- 💞️ I’m looking to collaborate on network architecture design.
-- 📫 How to reach me @antonio.lee.ps@gmail.com
+- 👋 Hi, I’m @antonioleeps, a doctoral researcher at Humboldt-Universität zu Berlin under Dr. Torben Ott
+- 👀 I’m interested in behavioural modelling of decision making processes and signal processing of physiological data, particularly on photometric recording of dopamine dynamics. A side-interest is on automatic microscopic image processing.
+- 🌱 I’m currently working on projects using different reinforcement learning algorithm, as well as bayersian inference to model animal behaviour in decision making.
+- 📫 How to reach me @antonio@bccn-berlin.de
 
 <!---
 antonioleeps/antonioleeps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
